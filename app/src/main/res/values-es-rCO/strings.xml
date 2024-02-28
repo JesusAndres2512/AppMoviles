@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAppMov</string>
+    <string name="txt_app">Esta es mi primera App</string>
+    <string name="desc_img">Es una imagen de tennis de Nike</string>
+</resources>
